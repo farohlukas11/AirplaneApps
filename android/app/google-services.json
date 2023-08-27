@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537979194159",
+    "project_id": "airplane-c6875",
+    "storage_bucket": "airplane-c6875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537979194159:android:1089b5b759e92c21692fda",
+        "android_client_info": {
+          "package_name": "com.faroh.airplane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537979194159-itjummmrf4p1upnv132fmche7r8raf9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7YKdmNNnbrQqnkAoAdmjL_wDhPvSkzXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537979194159-itjummmrf4p1upnv132fmche7r8raf9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
